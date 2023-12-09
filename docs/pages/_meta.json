@@ -1,0 +1,13 @@
+{
+  "index": "Introduction",
+  "changelog": "Change Logs",
+  "releases": "Releases",
+  "deploy": "Deploy Bot",
+  "contribution": "Thanks To",
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://t.me/kinu6",
+    "newWindow": true
+  }
+}

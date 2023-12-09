@@ -1,0 +1,133 @@
+.tm-timeline {
+  position: relative;
+}
+.container {
+  margin-top: 40px;
+}
+.tmtimelineitem {
+  border-left: 2px solid #2c26d9;
+  margin-top: -5px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  position: relative;
+}
+.tmtimelineitem h2 {
+  margin-top: 0;
+  line-height: 0.5;
+}
+.tmtimelineitem p {
+  margin-bottom: 0;
+}
+.tmtimelineitem:before {
+  content: ' ';
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  left: -8px;
+  background-color: #2063df;
+  border-radius: 50%;
+}
+.tmtimelineitem:first-child:before {
+  left: -8px;
+}
+.tmtimelineitem:last-child:before {
+  left: -6px;
+}
+.tmtimelineitem:last-of-type {
+  padding-bottom: 0;
+  border: 0;
+}
+
+.tmtimelineentry {
+  padding-top: 15px;
+}
+.tmtimelineentry + .tmtimelineentry {
+  margin-top: 15px;
+}
+.tmtimelineentry .tmtimelineentrylabel {
+  font-size: 16px;
+  color: #1a1a1a;
+}
+@media (min-width: 768px) {
+  .tmtimelineentry .tmtimelineentrylabel {
+    width: 100px;
+    float: left;
+    clear: both;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .tmtimelineentry .tmtimelineentrydata {
+    margin-left: 100px;
+  }
+}
+@media (max-width: 767px) {
+  .uk-block {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}
+.tm-block-content {
+  min-height: calc(100vh - 142px);
+}
+.uk-block-muted {
+  background: #f8f9fa;
+}
+.uk-block-primary {
+  background: #e43d3c;
+}
+.uk-block-secondary {
+  background: #1a1a1a;
+}
+.ukbadge {
+  font-weight: 400;
+  padding: 4px;
+  box-shadow: #1a1a1a;
+}
+/* ADDED */
+.ukbadgesuccess {
+  background-color: #3dc372;
+  color: #fff;
+  border-radius: 8px;
+  padding: 4px;
+  text-shadow: #2063df;
+}
+/* CHANGED */
+.ukbadgewarning {
+  background-color: #ffb24e;
+  color: #fff;
+}
+/* FIXED or REMOVED */
+.ukbadgedanger {
+  background-color: #e44e56;
+  border-radius: 8px;
+  text-shadow: #ffb24e;
+  padding: 4px;
+  color: #fff;
+}
+
+.iconset {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.bicon {
+  display: flex;
+  gap: 8px;
+  flex-direction: row;
+}
+
+.avatar {
+  border-radius: 5px;
+  box-shadow: #1a1a1a;
+  padding: 2px;
+}
+
+.readmore {
+  font-weight: 400;
+  text-shadow: #1a1a1a;
+  color: #2657b2;
+  -webkit-text-fill-color: #2c26d9;
+}
