@@ -21,7 +21,7 @@
 # SOFTWARE
 
 # edit this file with your veriable if you'r deploy bot via locally | vps
- os
+import os
 
 import logging
 
