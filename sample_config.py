@@ -21,6 +21,16 @@
 # SOFTWARE
 
 # edit this file with your veriable if you'r deploy bot via locally | vps
+ os
+
+import logging
+
+logging.basicConfig(
+    format='%(name)s - %(levelname)s - %(message)s',
+    handlers=[logging.FileHandler('log.txt'),
+              logging.StreamHandler()],
+    level=logging.INFO
+)
 
 class Config(object):
     WEBHOOK = os.environ.get("BOT_TOKEN", False)
