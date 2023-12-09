@@ -1,24 +1,4 @@
 
-
-<p align="center">
-<a href="https://www.fiverr.com/share/kpLBoo"><img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/310030332/original/dea9a8cecd633a38d59659d455e8a7f46e914505/develop-a-telegram-bot-and-deployed-on-vercel-at-no-cost.jpg"/></a>
-
-<h1 align="center">Get Your Bot Developed and Hosted for Free! 🔥</h1>                                                                                                
-<h5 align="center">Are you tired of paying for bot hosting? Look no further! I offer affordable bot development services starting at just $5, and all bots are hosted for free on vercel.com Whether you need a chatbot, a trading bot, or anything in between, I've got you covered. Contact me on <a href="https://www.fiverr.com/share/kpLBoo">fiverr</a> today to get started.                                                                                   </p>
-</h5> <br><br>
-
-## Check Out Youtube Video & Playlist Downloder Bot
-
-<a href="https://github.com/kalanakt/awesome-telegram"><img align="right" title="Awesome Telegram" src="https://github.com/kalanakt/awesome-telegram/raw/main/assets/logo.svg" alt="Awesome Heroku" width="180px"></a>
-
-<br>
-
-Download YouTube videos and playlists. It supports both video and audio downloads, and provides a variety of resolution and format options for video downloads.
-
-<a href="https://github.com/kalanakt/videoDefUserBot">Try Now...</a>
-
-<br>
-<p align="center"><a href="https://t.me/TMWAD" target="_blank" rel="noopener noreferrer"><img width="450" src="https://github.com/kalanakt/All-Url-Uploader/blob/main/asset/tmwad.png" alt="@TMWAD logo"></a></p>
 <p align='center'>
   <img alt="GitHub Sparkline" src="https://stars.medv.io/kalanakt/All-Url-Uploader.svg">
 </p>
@@ -31,7 +11,7 @@ Download YouTube videos and playlists. It supports both video and audio download
   <img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/kalanakt/All-Url-Uploader?color=8eecf5&logo=anaconda&logoColor=06d6a0&style=social">
   <img alt="GitHub" src="https://img.shields.io/github/license/kalanakt/All-Url-Uploader?logo=adguard&logoColor=390099&style=social">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kalanakt/All-Url-Uploader?color=90e0ef&logoColor=ff4d6d&style=social">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kalanakt/All-Url-Uploader?logo=electron&logoColor=89fc00&style=social">
+  <img alt="GitHub last commit" src="/github/last-commit/kalanakt/All-Url-Uploader?logo=electron&logoColor=89fc00&style=social">
 </p>
 <br>
 
